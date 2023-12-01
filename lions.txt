@@ -1,6 +1,0 @@
-team : Lions
-
-manager : vndsa
-
-member :
-- JinHo
