@@ -1,0 +1,7 @@
+team : jaguars
+
+manager : Jude
+
+members :
+- Hyeons
+- jjino
